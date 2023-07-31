@@ -1,2 +1,11 @@
 cd root
 touch so_cool
+touch school
+cp school /tmp
+touch old_school
+mv old_school new_school
+mv not_here /tmp/right_school
+touch ready_to_be_removed
+rm ready_to_be_removed
+mkdir school_is_amazing
+rmdir empty_directory
