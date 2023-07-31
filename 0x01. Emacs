@@ -1,6 +1,5 @@
 cd root
 rmdir 0x01_emacs
-mkdir 0x01_emacs
 cd 0x01_emacs
 echo "C-x C-f" >> opening
 echo "C-x C-s" >> saving
