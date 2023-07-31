@@ -1,2 +1,4 @@
 cd root
 rmdir 0x01_emacs
+ls
+mkdir 0x01_emacs
