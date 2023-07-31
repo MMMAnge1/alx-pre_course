@@ -1,0 +1,9 @@
+cd root
+mkdir 0x01_emacs
+echo "C-x C-f" >> opening
+echo "C-x C-s" >> saving
+echo "dd" >> cutting
+echo "C-y" >> pasting
+echo "C-s" >> searching
+echo "C-_" >> undoing
+echo "C-x C-c" >> quitting
